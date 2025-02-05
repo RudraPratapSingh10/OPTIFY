@@ -23,7 +23,7 @@ The primary goals of this project were to:
 - **Foundation for Future Projects:** Provides a strong foundation for building more complex applications in the future.
 
 ## 📸 Screenshots
-![Calculator Interface](link-to-screenshot)
+![Calculator Interface](file:///C:/Users/rprta/OneDrive/Desktop/Calculator%20Project/index.html)
 > A glimpse of the user-friendly interface of OPTIFY.
 
 ## 🛠️ Technologies Used
@@ -43,8 +43,8 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 Feel free to reach out for any queries or suggestions:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** your-rprtap098@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-19491431a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
