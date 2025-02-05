@@ -23,7 +23,7 @@ The primary goals of this project were to:
 - **Foundation for Future Projects:** Provides a strong foundation for building more complex applications in the future.
 
 ## 📸 Screenshots
-![Calculator Interface](file:///C:/Users/rprta/OneDrive/Desktop/Calculator%20Project/index.html)
+![Calculator Interface]("C:\Users\rprta\OneDrive\Pictures\Screenshots\Screenshot 2025-02-05 164220.png")
 > A glimpse of the user-friendly interface of OPTIFY.
 
 ## 🛠️ Technologies Used
