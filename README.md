@@ -20,11 +20,7 @@ The primary goals of this project were to:
 - **Learning Experience:** This project solidified my understanding of core web development concepts.
 - **Portfolio Building:** A great addition to my portfolio as a beginner web developer.
 - **Practical Application:** Demonstrates the ability to create functional and interactive web applications.
-- **Foundation for Future Projects:** Provides a strong foundation for building more complex applications in the future.
-
-## 📸 Screenshots
-![Calculator Interface]("C:\Users\rprta\OneDrive\Pictures\Screenshots\Screenshot 2025-02-05 164220.png")
-> A glimpse of the user-friendly interface of OPTIFY.
+- **Foundation for Future Projects:** Provides a strong foundation for building more complex applications in the future
 
 ## 🛠️ Technologies Used
 - **HTML5:** For structuring the web content.
